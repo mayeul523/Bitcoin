@@ -1,2 +1,0 @@
-# Bitcoin
-Finance, bitcoin
